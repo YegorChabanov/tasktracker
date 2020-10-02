@@ -22,7 +22,7 @@ composer install
 
 php artisan key:generate
 
-php artisan migtate --seed
+php artisan migrate --seed
 
 php artisan passport:install
 
